@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeScreen Testing View correctly 1`] = `
+<GradientBackground>
+  <ScrollView>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 22,
+          "marginLeft": 4,
+          "marginVertical": 12,
+        }
+      }
+    >
+      BUSCAR CLIMA
+    </Text>
+    <View>
+      <PickerSearch
+        onValueChange={[Function]}
+        select=""
+      />
+    </View>
+  </ScrollView>
+</GradientBackground>
+`;
+
+exports[`Rendering Testing Component correctly 1`] = `
+<GradientBackground>
+  <ScrollView>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 22,
+          "marginLeft": 4,
+          "marginVertical": 12,
+        }
+      }
+    >
+      BUSCAR CLIMA
+    </Text>
+    <View>
+      <PickerSearch
+        onValueChange={[Function]}
+        select=""
+      />
+    </View>
+  </ScrollView>
+</GradientBackground>
+`;

@@ -1,0 +1,5 @@
+Notas: Aplicacion de TDD  para HomeScreen
+Para probar todos los casos de pruebas, se debe comentar
+la llamada a la depenendencia y invocacion al componente 
+LinearGradient que esta en el archivo GradientBackground.tsx, porque algun archivo del modulo de la depenendencia no estaria 
+armonizando con los test
